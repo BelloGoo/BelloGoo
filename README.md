@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey fellow Codersss 👋
+
+### for pastime
+🦦: writing python little games
 
 <!--
 **BelloGoo/BelloGoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
